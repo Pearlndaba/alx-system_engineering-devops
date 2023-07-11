@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -all 3 "root" /etc/passwd 
